@@ -2,7 +2,7 @@
     "text": {
         "start": "Welcome",
         "middle": "to",
-        "end": "Cake Time!"
+        "end": "Cake Time Nicolas!"
     },
     "assets": {
         "cake":"https://github.com/alexa/skill-sample-nodejs-first-apl-skill/blob/master/modules/assets/alexaCake_960x960.png?raw=true"
